@@ -4,7 +4,7 @@
 
 ### Hi, I'm Jerod 👋
 
-Director of Tech Evangelism at [CData](https://www.cdata.com) since 2013. I run [**CData Labs**](https://www.cdata.com/labs/): we test how the data layer behind an AI agent changes accuracy, tokens and cost, then publish everything so you can check our math.
+Director of Tech Evangelism at [CData](https://www.cdata.com) (been there since 2013). I run [**CData Labs**](https://www.cdata.com/labs/): we test how the data layer behind an AI agent changes accuracy, tokens and cost, then publish everything so you can check our math.
 
 Off the clock: Transformers (yes, the handle), Marvel, Warhammer and board games. Former host of the [BattleMallet Podcast](https://www.battle-mallet.com).
 
