@@ -1,4 +1,4 @@
-name: generate pac-man contribution graph
+name: generate arcade contribution graphs
 
 on:
   schedule: # every day at 05:17 UTC
@@ -17,10 +17,10 @@ jobs:
 
     steps:
       - name: generate contribution graph SVGs
-        uses: abozanona/pacman-contribution-graph@main
+        uses: jeRodimusPrime/pacman-contribution-graph@burrow
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: 'pacman'
+          games: 'pacman,burrow'
 
       - name: push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

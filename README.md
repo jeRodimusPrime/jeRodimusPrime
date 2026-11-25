@@ -42,6 +42,12 @@ Off the clock: Transformers (yes, the handle), Marvel, Warhammer and board games
   <img alt="Pac-Man eating my GitHub contribution graph" src="https://raw.githubusercontent.com/jeRodimusPrime/jeRodimusPrime/output/pacman-contribution-graph.svg">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeRodimusPrime/jeRodimusPrime/output/burrow-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeRodimusPrime/jeRodimusPrime/output/burrow-contribution-graph.svg">
+  <img alt="A wombat digging through my GitHub contribution graph" src="https://raw.githubusercontent.com/jeRodimusPrime/jeRodimusPrime/output/burrow-contribution-graph.svg">
+</picture>
+
 #### 📫 Find me
 
 [![CData Labs](https://img.shields.io/badge/CData_Labs-1e1e1e?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAACEklEQVR42u2Zv4rVUBDGf5PEShBWFlSw8gEsfAfLLaxtfQDBR%2FEVrCxEGyvZQmwUdxsLixVBUBRWRbFaTfLZzNHDspfNvZvcnIE7EE4CJ2G%2B%2BebviUk6JJ4IMOBzA2wTV9rG0URloG38JqIYYBXBZQNgbmlG%2FFbvVzKMrSO%2BxgDQuaLVGhlNhqnPAkB%2B1f78AXgOvAQOgO%2FA72zvJHUArSZtdr8r6Zak81FioPX3PgL3zOzhP0qk2unV2grkkpb%2F4%2BszSVf8%2FUpSLWmegriC8o8kNf5uw9yypM%2B%2FkHROkkkqo4YMUL6X1En6Kulq5utEAZCsf6cYt1kCQOfrGw%2FU%2BYJ1xV4otQb3zawDzMwUhYHe11%2BSLvve4maHaoD1X5vZF0lVcdY%2FBUBSdq%2Fk1nuIUu%2BjDjTJ379Fn8gUFUBS%2FGJ0Bq6VmD6XiYEbnj77IhEMKGQ%2FJW1HLGTmA%2FsFYCcN0ZEYyDvRfZ8BwgHIQdwusZ02Safl%2BRS8h8B1X83M%2BtJjIN8j4BLwIGMuzEh5fKjPQTSRAOQgHkvaSvPxnJPakBhYdLB1ANw1s6cnMFLswdZJR4tPJN2cy51WYSDPTvkR%2BltgF3gFvAN%2BeCGcUtqzAEjS8f9%2FwCKQozuOf%2FfTGLTXmbJJ4SpbJ%2FGclOLH9NvjPzimDOLEwKSBN3VatWJPGsZuJTYANgAWx5c1wFFAAHLjH%2F0F1MNsP%2FDxA%2FMAAAAASUVORK5CYII%3D)](https://www.cdata.com/labs/)
